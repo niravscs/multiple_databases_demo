@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  domain: MyString
+  unique_name: MyString
+
+two:
+  domain: MyString
+  unique_name: MyString
